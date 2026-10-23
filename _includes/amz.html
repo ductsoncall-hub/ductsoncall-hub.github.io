@@ -1,0 +1,1 @@
+<a class="amz" href="https://www.amazon.com/s?k={{ include.q | uri_escape }}{% if site.amazon_tag and site.amazon_tag != "" %}&tag={{ site.amazon_tag }}{% endif %}" target="_blank" rel="nofollow sponsored noopener">{{ include.label | default: "Check price on Amazon" }}</a>

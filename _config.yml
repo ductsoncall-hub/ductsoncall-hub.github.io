@@ -10,7 +10,9 @@ plugins: [jekyll-feed, jekyll-seo-tag, jekyll-sitemap]
 permalink: /:year/:month/:day/:title/
 minima:
   social_links: []
-header_pages: [about.md]
+header_pages: [recommended.md, about.md]
+# Amazon Associates tracking ID. Leave empty until the account is approved; links then fall back to plain Amazon search.
+amazon_tag: ""
 
 defaults:
   - scope:
