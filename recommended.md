@@ -13,4 +13,6 @@ Buying guides for the equipment that actually moves indoor air quality numbers, 
 
 **Free:** [The Furnace-Season Indoor Air Checklist](https://ductsoncall-hub.github.io/ductsoncall-madison/checklist.html), a two-page sourced PDF for Wisconsin homeowners.
 
+{% include books.html %}
+
 **Disclosure:** some links in these guides are affiliate links. If you buy through them, this site may earn a small commission at no extra cost to you. Picks are chosen from the cited independent tests, not by commission rate. Sponsored by [Ducts On Call](https://ductsoncall-hub.github.io/ductsoncall-madison/), Madison, Wisconsin.

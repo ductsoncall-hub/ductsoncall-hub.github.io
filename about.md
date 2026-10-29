@@ -10,3 +10,5 @@ Indoor Air Science Notes publishes educational articles about indoor air quality
 **Not medical advice.** For health concerns, consult a physician. For suspected building contamination, consult a qualified professional.
 
 **Corrections:** If you spot an error, contact Ducts On Call through [ductsoncall.com](https://ductsoncall.com).
+
+{% include books.html %}
