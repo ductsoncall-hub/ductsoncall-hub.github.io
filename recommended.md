@@ -7,6 +7,7 @@ Buying guides for the equipment that actually moves indoor air quality numbers, 
 
 - **[Best air purifiers for mold spores and musty basements](/2026/10/23/best-air-purifier-for-mold-spores/)**: HEPA, CADR sizing, no-ozone rules, five tested picks.
 - **[Best dehumidifiers for a Wisconsin basement](/2026/10/23/best-dehumidifier-for-wisconsin-basement/)**: why 50 pints, pump vs. gravity drain, Energy Star efficiency data, five picks.
+- **[Best humidifiers for a Wisconsin winter](/2026/10/28/best-humidifier-for-wisconsin-winter/)**: hard water, the 50% ceiling, evaporative vs. ultrasonic, five tested picks.
 - **[Best indoor air quality monitors](/2026/10/23/best-indoor-air-quality-monitor/)**: which sensors matter, where radon fits in, the units reviewers trust.
 - **[What MERV rating to use in your furnace filter](/2026/10/23/what-merv-filter-for-home-furnace/)**: EPA's MERV 13 guidance and the catch most people miss.
 
